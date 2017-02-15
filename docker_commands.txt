@@ -1,0 +1,5 @@
+docker build -t hello-html .
+docker run -d -p 80:80 hello-html
+docker-macine ip
+
+¬водим в браузере полчуенный IP
